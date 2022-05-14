@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm VinothKumar</h1>
 <h3 align="center">A developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/12BYUePgtn7sis/giphy.gif">
+
 # 💫About Me :
 
 - 🔭 I’m currently working on **Nothing**
