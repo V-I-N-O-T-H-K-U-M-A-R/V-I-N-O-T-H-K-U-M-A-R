@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm vinothkumat</h1>
+<h1 align="center">Hi 👋, I'm VinothKumar</h1>
 <h3 align="center">A developer from India</h3>
 
 - 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Anything**
 
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I’m looking to collaborate on **Humans**
 
 - 🤝 I’m looking for help with **Open source project**
 
